@@ -4,12 +4,12 @@ project(ThicknessMap)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "https://www.slicer.org/wiki/Documentation/Nightly/Extensions/ThicknessMap")
+set(EXTENSION_HOMEPAGE "https://github.com/fatihtalu/Slicer-ThicknessMap#readme")
 set(EXTENSION_CATEGORY "Shape Analysis")
 set(EXTENSION_CONTRIBUTORS "Muhammed Fatih Talu (Inonu University)")
 set(EXTENSION_DESCRIPTION "Calculation bone thickness mapping")
-set(EXTENSION_ICONURL "http://www.example.com/Slicer/Extensions/ThicknessMap.png")
-set(EXTENSION_SCREENSHOTURLS "http://www.example.com/Slicer/Extensions/ThicknessMap/Screenshots/1.png")
+set(EXTENSION_ICONURL "https://raw.githubusercontent.com/fatihtalu/Slicer-ThicknessMap/main/ThicknessMap.png")
+set(EXTENSION_SCREENSHOTURLS "")
 set(EXTENSION_DEPENDS "NA") # Specified as a list or "NA" if no dependencies
 
 #-----------------------------------------------------------------------------
